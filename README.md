@@ -18,9 +18,9 @@
 
 ## 快速入口
 
-- 👉 **仓库首页**：https://github.com/jichangbaike/ikuuu
+- ⚠️ **仓库首页**：https://github.com/jichangbaike/ikuuu
 - 👉 **iKUUU 官网注册入口**：[立即进入 iKUUU 官网](https://finalto.xyz/9t5kNr)
-- 👉 **访问说明**：如遇无法打开，请尝试更换浏览器或网络环境后重新访问。
+- 🔔 **访问说明**：如遇无法打开，请尝试更换浏览器或网络环境后重新访问。
 
 建议使用 Chrome、Edge 等桌面浏览器访问，以获得更好的注册与配置体验。
 
@@ -143,7 +143,9 @@ A: 数字化服务具有特殊性，建议先通过月付套餐进行测试，�
 
 ## 官网注册入口
 
-- 👉 **访问 iKUUU 官网**： https://finalto.xyz/9t5kNr
+- 👉 **访问 iKUUU 最新官网**：
+
+   [立即进入 iKUUU 官网](https://finalto.xyz/9t5kNr)
 
 > 提示：跨境网络环境复杂，请妥善保管订阅地址，定期更新节点以获取最佳体验。
 
