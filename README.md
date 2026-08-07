@@ -7,7 +7,7 @@
 **iKUUU** 支持常见的第三方客户端，自研客户端支持 Windows、macOS、Android平台，一键开启，高效便捷。
 
 > **仓库说明**：本文档仅作为公开信息汇总与使用指引，请在合法合规前提下使用相关服务。  
-> **最后更新**：2026年6月26日（套餐详情与活动请以官网为准）。
+> **最后更新**：2026年8月7日（套餐详情与活动请以官网为准）。
 
 > [!WARNING]
 > 本仓库内容为原创整理，禁止整段复制、镜像式搬运、长期针对性跟抄行为。  
@@ -117,9 +117,9 @@ iKUUU 自研客户端支持 Windows、Mac OS、Android 平台，暂时不支持 
 ---
 ## 测试情况
 
-<img src="https://raw.githubusercontent.com/jichangbaike/ikuuu/refs/heads/main/images/ikuuu-test-20260517.png" alt="ikuuu 测试">
+<img src="https://raw.githubusercontent.com/jichangbaike/ikuuu/refs/heads/main/images/ikuuu-test-20260806.png" alt="ikuuu 测试">
 
-> 测试时间：2026-05-17，网络情况：电信 2Gbps
+> 测试时间：2026-08-06，网络情况：电信 2Gbps
 >
 
 ---
@@ -158,5 +158,6 @@ A: 数字化服务具有特殊性，建议先通过月付套餐进行测试，�
 如发现相关情况，维护者将保留证据并按平台规则处理。
 
 - **Maintained by:** `jichangbaike`  
-- **Last Updated:** `2026-06-26`  
-- **Version:** `v1.6`
+- **Last Updated:** `2026-8-7`  
+- **Version:** `v1.7`
+
